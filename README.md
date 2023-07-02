@@ -1,16 +1,20 @@
 # Timeless Yoda
 
-‪These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
-
-Credit [Corey House](https://github.com/coryhouse/timeless-skills)
+‪These are the timeless truths I wish I’d learned in school, and the resources I recommend to learn them.
 
 Books, blog posts, videos, podcasts, and tweets.
 ‪
 ### Logical Fallacies 
+
+> “You must unlearn what you have learned.”
+
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
 - [PBS Logical Fallacies](https://www.youtube.com/playlist?list=PLtHP6qx8VF7dPql3ll1To4i6vEIPt0kV5)
 ‪
 ### Mental models 
+
+> “Many of the truths that we cling to depend on our point of view.”
+
 - [Farnam Street Mental Models](https://fs.blog/mental-models)
 - [Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/B00A2ZIZYQ/ref=sr_1_1?dchild=1&keywords=antifragile+nassim+taleb&qid=1585511912&sr=8-1)
 ‪
@@ -23,14 +27,21 @@ Books, blog posts, videos, podcasts, and tweets.
 - [Matthew McConaughey - This Is Why You're Not Happy](https://www.youtube.com/watch?v=p0p1fjLPjYQ&list=LLglh1DWaaMudW8_odew00qw&index=107&t=0s)
 
 ### Relationships
+
+
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
 ### Psychology
-> Do or do not. There is no try.
+
+> "Do or do not. There is no try."
+
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
 - [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
 
 ### Philosophy
+
+> “When you look at the dark side, careful you must be. For the dark side looks back.”
+
 - [How to Live by Derek Sivers](https://sive.rs/h)
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday-ebook/dp/B015NTIXWE/ref=sr_1_1?crid=JWMQYTCLVXH3&dchild=1&keywords=ego+is+the+enemy&qid=1585489894&s=digital-text&sprefix=ego+is+the%2Cdigital-text%2C153&sr=1-1) - Also, [superb short excerpt on Tim Ferriss Show](https://tim.blog/2018/06/05/the-tim-ferriss-show-transcripts-ryan-holiday-whats-important-to-you/)
 - [Derek Sivers - How to Thrive in an Unknowlable Future](https://sive.rs/d1t)
