@@ -4,38 +4,43 @@
 
 Books, blog posts, videos, podcasts, and tweets.
 ‪
+### Mental models 
+
+> "Do or do not. There is no try."
+
+- [Farnam Street Mental Models](https://fs.blog/mental-models)
+
 ### Logical Fallacies 
 
 > “You must unlearn what you have learned.”
 
 - [PBS Logical Fallacies](https://www.youtube.com/playlist?list=PLtHP6qx8VF7dPql3ll1To4i6vEIPt0kV5)
-‪
-### Mental models 
+
+
+### Psychology
 
 > “Many of the truths that we cling to depend on our point of view.”
 
-- [Farnam Street Mental Models](https://fs.blog/mental-models)
 - [Derek Sivers - Your explanations are not true](https://sive.rs/confab)
+
+- [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
+- [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
+‪
+### Happiness
+- [The Happiness Advantage](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/B00435DZ7S)
+- [Matthew McConaughey - This Is Why You're Not Happy](https://www.youtube.com/watch?v=p0p1fjLPjYQ&list=LLglh1DWaaMudW8_odew00qw&index=107&t=0s)
+  
 ‪
 ### Persuasion
 - [To Sell Is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=nodl_‬)
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without-ebook/dp/B0051SDM5Q/ref=sr_1_2?dchild=1&keywords=getting+to+yes&qid=1585489764&s=digital-text&sr=1-2)
 ‪
-### Happiness
-- [The Happiness Advantage](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/B00435DZ7S)
-- [Matthew McConaughey - This Is Why You're Not Happy](https://www.youtube.com/watch?v=p0p1fjLPjYQ&list=LLglh1DWaaMudW8_odew00qw&index=107&t=0s)
 
 ### Relationships
 
 
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
-### Psychology
-
-> "Do or do not. There is no try."
-
-- [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
-- [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
 
 ### Philosophy
 
