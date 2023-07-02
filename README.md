@@ -10,6 +10,7 @@ Books, blog posts, videos, podcasts, and tweets.
 
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
 - [PBS Logical Fallacies](https://www.youtube.com/playlist?list=PLtHP6qx8VF7dPql3ll1To4i6vEIPt0kV5)
+- [Your explanations are not true](https://sive.rs/confab)
 ‪
 ### Mental models 
 
