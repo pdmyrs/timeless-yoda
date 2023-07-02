@@ -8,16 +8,14 @@ Books, blog posts, videos, podcasts, and tweets.
 
 > “You must unlearn what you have learned.”
 
-- [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
 - [PBS Logical Fallacies](https://www.youtube.com/playlist?list=PLtHP6qx8VF7dPql3ll1To4i6vEIPt0kV5)
-- [Your explanations are not true](https://sive.rs/confab)
 ‪
 ### Mental models 
 
 > “Many of the truths that we cling to depend on our point of view.”
 
 - [Farnam Street Mental Models](https://fs.blog/mental-models)
-- [Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/B00A2ZIZYQ/ref=sr_1_1?dchild=1&keywords=antifragile+nassim+taleb&qid=1585511912&sr=8-1)
+- [Derek Sivers - Your explanations are not true](https://sive.rs/confab)
 ‪
 ### Persuasion
 - [To Sell Is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=nodl_‬)
