@@ -5,10 +5,6 @@
 Credit [Corey House](https://github.com/coryhouse/timeless-skills)
 
 Books, blog posts, videos, podcasts, and tweets.
-
-## Why this list?
-1. These are concepts that I want to pass on to my children, and share with the world.
-1. I believe great content is worth consuming multiple times. So I refer back to this.
 ‪
 ### Logical Fallacies 
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
