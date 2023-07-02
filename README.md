@@ -1,6 +1,8 @@
-# Timeless Skills
+# Timeless Yoda
 
 ‪These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
+
+Credit [Corey House](https://github.com/coryhouse/timeless-skills)
 
 Books, blog posts, videos, podcasts, and tweets.
 
