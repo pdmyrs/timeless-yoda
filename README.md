@@ -22,6 +22,7 @@ Books, blog posts, videos, podcasts, and tweets.
 > “Many of the truths that we cling to depend on our point of view.”
 
 - [Derek Sivers - Your explanations are not true](https://sive.rs/confab)
+- [Letting go](https://www.youtube.com/watch?v=koo59KK43YA&list=PLwc6d75QdCzzH88HenwweJMae8Ld-0qqj&t=369s)
 
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
 - [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
