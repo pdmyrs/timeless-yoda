@@ -14,7 +14,7 @@ Books, blog posts, videos, podcasts, and tweets.
 - [Farnam Street Mental Models](https://fs.blog/mental-models)
 - [Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/B00A2ZIZYQ/ref=sr_1_1?dchild=1&keywords=antifragile+nassim+taleb&qid=1585511912&sr=8-1)
 ‪
-### Sales / Persuasion / Negotiation
+### Persuasion
 - [To Sell Is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=nodl_‬)
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without-ebook/dp/B0051SDM5Q/ref=sr_1_2?dchild=1&keywords=getting+to+yes&qid=1585489764&s=digital-text&sr=1-2)
 ‪
@@ -26,6 +26,7 @@ Books, blog posts, videos, podcasts, and tweets.
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
 ### Psychology
+> Do or do not. There is no try.
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
 - [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
 
