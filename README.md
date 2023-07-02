@@ -11,7 +11,7 @@ Books, blog posts, videos, podcasts, and tweets.
 - [PBS Logical Fallacies](https://www.youtube.com/playlist?list=PLtHP6qx8VF7dPql3ll1To4i6vEIPt0kV5)
 ‪
 ### Mental models 
-- [Farnam Street Mental Models](https://fs.blog/mental-models/‬)
+- [Farnam Street Mental Models](https://fs.blog/mental-models)
 - [Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/B00A2ZIZYQ/ref=sr_1_1?dchild=1&keywords=antifragile+nassim+taleb&qid=1585511912&sr=8-1)
 ‪
 ### Sales / Persuasion / Negotiation
